@@ -27,7 +27,7 @@
       //Using noreferer to block tracking, feel free to remove this.
 	  $link = "http://noreferer.link/?http://renderserver.net/vfm-admin/vfm-downloader.php?q=$pezzo&h=$hash&sh=$supah&t=$ver";
       echo "<a href='".$link."' target='_blank'>".$link."</a></br>";
-      };
+	};
 ?>
 
 
